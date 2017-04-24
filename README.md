@@ -32,4 +32,4 @@ You require a python environment (preferably a conda environment) with the follo
 * Jupyter notebook
 
 ## Notes
-This project uses a conv net that custom made and trained on a gpu. The accuracy is 50%.Any help towards improving the accuracy would be appreciated.
+This project uses a conv net that custom made and trained on a gpu. The accuracy is 53%.
