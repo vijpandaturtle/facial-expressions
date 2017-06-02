@@ -22,7 +22,7 @@ For convenience purposes, I have put all of my code in a jupyter notebook. So, t
 I have included instructions for two operating systems since I trained my model using both of them. You can find instructions for OSX(Mac) [here.](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
 ### Requirements
-You require a python environment (preferably a conda environment) with the following packages installed
+You require a python 3 environment (preferably a conda environment) with the following packages installed
 * Tensorflow
 * Numpy
 * Matplotlib
@@ -32,4 +32,4 @@ You require a python environment (preferably a conda environment) with the follo
 * Jupyter notebook
 
 ## Notes
-This project uses a conv net that custom made and trained on a gpu. The accuracy is 56 %.
+This project uses a conv net that is custom made and trained on a gpu. The accuracy is 56 %. 
